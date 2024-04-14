@@ -2,10 +2,10 @@
   danielwanjo.xyz
 </h1>
 <p align="center">
-  The second iteration of my <a href="https://danielwanjo.xyz" target="_blank">portfolio site</a> with minimalistic approach. Built with <a href="https://www.nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>.
+  This is my portfolio site</a> with minimalistic approach. Built with <a href="https://www.nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>.
 </p>
 
-![demo](https://raw.githubusercontent.com/KeluhingBavui/portfolio-v2/master/public/assets/img/demo-portfolio.png)
+![demo](https://raw.githubusercontent.com/rishwanthvallala/portfolio/master/public/assets/img/demo-portfolio.png)
 
 ## Tech Stack & UI Libraries
 
