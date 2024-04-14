@@ -1,0 +1,16 @@
+[
+    {
+        "title": "Embedded Software Intern",  
+        "company": "Unistring Tech Solutions Pvt. Ltd.",
+        "date": "Sept 2023 - Jan 2024",
+        "description": " I designed and implemented a Python-based client-server application utilizing TCP communication to manage USB device access. I developed a VID/PID whitelist system for USB devices to improve data security and deployed it to over 50% of company systems, significantly improving overall security measures.",
+        "skills": [
+            "Python",
+            "Networking",
+            "Socket Programming",
+            "TCP/IP",
+            "Client-Server Architecture",
+            "Linux Kernel"
+        ]
+    }
+]
