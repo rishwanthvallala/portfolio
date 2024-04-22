@@ -8,7 +8,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 import { GeistSans } from 'geist/font/sans';
 
 export const metadata: Metadata = {
-    title: 'Daniel Wan',
+    title: 'Rishwanth Vallala',
     description: 'I plan, design, build, test and deploy software',
 };
 
