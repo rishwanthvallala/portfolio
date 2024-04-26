@@ -12,7 +12,7 @@ interface ExperienceCardProps {
 
 export function ExperienceCard({ title, company, date, description, skills }: ExperienceCardProps) {
     return (
-        <Card className="w-full">
+        <Card className="w-full dark:shadow-2xl dark:shadow-emerald-500/[0.1] ">
             <Reveal
                 initial={{ opacity: 0, y: -50 }}
                 whileInView={{ opacity: 1, y: 0, transition: { duration: 0.4 } }}

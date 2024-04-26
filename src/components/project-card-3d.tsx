@@ -27,7 +27,7 @@ export function ProjectCard3d({
 }: ProjectCardProps) {
     return (
         <CardContainer className="inter-var">
-            <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] sm:w-[30rem] h-auto w-auto rounded-xl p-6 border">
+            <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.5] dark:bg-black dark:border-white/[0.2] border-black/[0.1] sm:w-[30rem] h-auto w-auto rounded-xl p-6 border">
                 <CardItem translateZ="50" className="w-full mt-4">
                     <AspectRatio ratio={16 / 9} className="bg-muted">
                         <Image

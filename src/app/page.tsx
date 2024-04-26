@@ -166,50 +166,16 @@ export default function Home() {
                     }}
                 >
                     <p className="leading-7">
-                        I'm Rishwanth Vallala, a passionate creator who enjoys
-                        bringing ideas to life through technology. Ever since I
-                        was young, I've been drawn to creating things that are
-                        visually appealing and interactive. From designing
-                        custom game maps for Warcraft III Frozen Throne to
-                        crafting tunes on FL Studio, I've always loved the
-                        process of making something from scratch.
+                        I'm Rishwanth Vallala, a creative technologist passionate about bringing ideas to life. Whether designing game maps for Warcraft III or crafting tunes on FL Studio, I've always been drawn to visually appealing and interactive projects.
                         <br />
                         <br />
-                        My journey into programming began in 2018, and since
-                        then, I've delved deep into web development, discovering
-                        new possibilities with each project. Now, as I near the
-                        completion of my Bachelor of Engineering in Information
-                        Technology at Vasavi College of Engineering, I find
-                        myself immersed in various software endeavors.
+                        Since diving into programming in 2018, I've explored web development extensively, nearing the completion of my Bachelor of Engineering in Information Technology at Vasavi College of Engineering. As an Embedded Software Intern at Unistring Tech Solutions Pvt. Ltd, I led the development of a Python-based client-server app, enhancing data security. Projects like the DSAC IT Club Website and The AR Visualiser showcase my dedication to impactful solutions.
                         <br />
                         <br />
-                        During my tenure as an Embedded Software Intern at
-                        Unistring Tech Solutions Pvt. Ltd, I spearheaded the
-                        development of a client-server application in Python,
-                        significantly enhancing data security measures across
-                        the company's systems. Additionally, my involvement in
-                        projects like the DSAC IT Club Website and The AR
-                        Visualiser reflects my commitment to creating impactful
-                        solutions.
+                        With proficiency in Java, Python, and C, along with frameworks like React and Django, I aim for excellence in frontend and backend development. Through certifications like CS50x by Harvard University and hands-on experience with Git and Docker, I continuously refine my skills to build high-quality, scalable applications.
                         <br />
                         <br />
-                        With a diverse skill set encompassing languages like
-                        Java, Python, and C, along with frameworks like React
-                        and Django, I strive to excel in both frontend and
-                        backend development. Through certifications like CS50x
-                        by Harvard University and hands-on experience with
-                        developer tools like Git and Docker, I aim to
-                        continuously refine my craft and build high-quality,
-                        scalable software applications.
-                        <br />
-                        <br />
-                        Outside of coding, you'll often find me immersed in
-                        gaming, playing badminton or volleyball, or indulging in
-                        binge-watching sessions on YouTube. As I continue on my
-                        journey, I remain dedicated to honing my skills and
-                        embracing new challenges in the ever-evolving world of
-                        software engineering. After all, as they say, "Once you
-                        go fullstack, you never go back".
+                        Beyond coding, I enjoy gaming, badminton, and binge-watching YouTube. Dedicated to growth in the dynamic field of software engineering, I embrace new challenges, always aiming to evolve.
                     </p>
                 </Reveal>
             </section>
@@ -294,10 +260,7 @@ export default function Home() {
                 <h2 className="scroll-m-20 text-3xl font-extrabold tracking-tight lg:text-4xl">
                     Skills & Tools
                 </h2>
-                <p className="leading-7 text-center">
-                    My primary focus lies in frontend development and backend
-                    development. Full-stack is the way to go xD.
-                </p>
+                <br />
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-8 items-start">
                     {/* Languages */}
                     <Reveal
@@ -313,7 +276,7 @@ export default function Home() {
                                 Languages
                             </h3>
                             <div className="flex flex-row flex-wrap justify-center gap-4">
-                                {/* JavaScript */}
+                                {/* C */}
                                 <div className="flex flex-col items-center justify-center">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -324,20 +287,30 @@ export default function Home() {
                                         viewBox="0 0 48 48"
                                         className="hover:animate-spin"
                                     >
-                                        <path
-                                            fill="#f7df1e"
-                                            d="M6,42V6h36v36H6z"
-                                        ></path>
-                                        <path
-                                            fill="#000001"
-                                            d="M29.538,32.947c0.692,1.124,1.444,2.201,3.037,2.201c1.338,0,2.04-0.665,2.04-1.585 c0-1.101-0.726-1.492-2.198-2.133l-0.807-0.344c-2.329-0.988-3.878-2.226-3.878-4.841c0-2.41,1.845-4.244,4.728-4.244 c2.053,0,3.528,0.711,4.592,2.573l-2.514,1.607c-0.553-0.988-1.151-1.377-2.078-1.377c-0.946,0-1.545,0.597-1.545,1.377 c0,0.964,0.6,1.354,1.985,1.951l0.807,0.344C36.452,29.645,38,30.839,38,33.523C38,36.415,35.716,38,32.65,38 c-2.999,0-4.702-1.505-5.65-3.368L29.538,32.947z M17.952,33.029c0.506,0.906,1.275,1.603,2.381,1.603 c1.058,0,1.667-0.418,1.667-2.043V22h3.333v11.101c0,3.367-1.953,4.899-4.805,4.899c-2.577,0-4.437-1.746-5.195-3.368 L17.952,33.029z"
-                                        ></path>
+                                        <linearGradient id="9nBOzQEsA2vJDj4A8wbora_shQTXiDQiQVR_gr1" x1="22.48" x2="31.833" y1="19.823" y2="45.52" gradientUnits="userSpaceOnUse">
+                                            <stop offset="0" stop-color="#3940a4"></stop>
+                                            <stop offset="1" stop-color="#293091"></stop>
+                                        </linearGradient>
+                                        <path fill="url(#9nBOzQEsA2vJDj4A8wbora_shQTXiDQiQVR_gr1)" fill-rule="evenodd" d="M22.903,3.286c0.679-0.381,1.515-0.381,2.193,0	c3.355,1.883,13.451,7.551,16.807,9.434C42.582,13.1,43,13.804,43,14.566c0,3.766,0,15.101,0,18.867	c0,0.762-0.418,1.466-1.097,1.847c-3.355,1.883-13.451,7.551-16.807,9.434c-0.679,0.381-1.515,0.381-2.193,0	c-3.355-1.883-13.451-7.551-16.807-9.434C5.418,34.899,5,34.196,5,33.434c0-3.766,0-15.101,0-18.867	c0-0.762,0.418-1.466,1.097-1.847C9.451,10.837,19.549,5.169,22.903,3.286z" clip-rule="evenodd"></path>
+                                        <linearGradient id="9nBOzQEsA2vJDj4A8wborb_shQTXiDQiQVR_gr2" x1="16.43" x2="26.687" y1="3.382" y2="31.562" gradientUnits="userSpaceOnUse">
+                                            <stop offset="0" stop-color="#7b83eb"></stop>
+                                            <stop offset="1" stop-color="#5961c3"></stop>
+                                        </linearGradient>
+                                        <path fill="url(#9nBOzQEsA2vJDj4A8wborb_shQTXiDQiQVR_gr2)" fill-rule="evenodd" d="M5.304,34.404C5.038,34.048,5,33.71,5,33.255c0-3.744,0-15.014,0-18.759c0-0.758,0.417-1.458,1.094-1.836	c3.343-1.872,13.405-7.507,16.748-9.38c0.677-0.379,1.594-0.371,2.271,0.008c3.343,1.872,13.371,7.459,16.714,9.331	c0.27,0.152,0.476,0.335,0.66,0.576L5.304,34.404z" clip-rule="evenodd"></path>
+                                        <path fill="#fff" fill-rule="evenodd" d="M24,10c7.727,0,14,6.273,14,14s-6.273,14-14,14s-14-6.273-14-14	S16.273,10,24,10z M24,17c3.863,0,7,3.136,7,7c0,3.863-3.137,7-7,7s-7-3.137-7-7C17,20.136,20.136,17,24,17z" clip-rule="evenodd"></path>
+                                        <linearGradient id="9nBOzQEsA2vJDj4A8wborc_shQTXiDQiQVR_gr3" x1="31.031" x2="39.734" y1="12.865" y2="36.777" gradientUnits="userSpaceOnUse">
+                                            <stop offset="0" stop-color="#5c65d6"></stop>
+                                            <stop offset=".999" stop-color="#464eb0"></stop>
+                                        </linearGradient>
+                                        <path fill="url(#9nBOzQEsA2vJDj4A8wborc_shQTXiDQiQVR_gr3)" fill-rule="evenodd" d="M42.485,13.205c0.516,0.483,0.506,1.211,0.506,1.784c0,3.795-0.032,14.589,0.009,18.384c0.004,0.396-0.127,0.813-0.323,1.127	L23.593,24L42.485,13.205z" clip-rule="evenodd"></path>
+                                        <path d="M24,10c5.128,0,9.602,2.771,12.041,6.887l-6.073,3.47C28.737,18.347,26.527,17,24,17c-3.864,0-7,3.136-7,7 c0,3.863,3.137,7,7,7c2.57,0,4.812-1.392,6.029-3.459l6.132,3.374C33.75,35.142,29.21,38,24,38c-7.727,0-14-6.273-14-14 S16.273,10,24,10 M24,9.5C16.005,9.5,9.5,16.005,9.5,24S16.005,38.5,24,38.5c5.188,0,10.014-2.812,12.595-7.337l0.252-0.441 l-0.445-0.245l-6.132-3.374l-0.425-0.234l-0.246,0.418C28.431,29.269,26.286,30.5,24,30.5c-3.584,0-6.5-2.916-6.5-6.5 s2.916-6.5,6.5-6.5c2.275,0,4.346,1.166,5.542,3.118l0.253,0.414l0.421-0.241l6.073-3.47l0.441-0.252l-0.259-0.437 C33.864,12.233,29.086,9.5,24,9.5L24,9.5z" opacity=".05"></path>
+                                        <path d="M24,10c5.128,0,9.602,2.771,12.041,6.887l-6.073,3.47C28.737,18.347,26.527,17,24,17c-3.864,0-7,3.136-7,7 c0,3.863,3.137,7,7,7c2.57,0,4.812-1.392,6.029-3.459l6.132,3.374C33.75,35.142,29.21,38,24,38c-7.727,0-14-6.273-14-14 S16.273,10,24,10 M24,9.5C16.005,9.5,9.5,16.005,9.5,24S16.005,38.5,24,38.5c5.188,0,10.014-2.812,12.595-7.337l0.252-0.441 l-0.445-0.245l-6.132-3.374l-0.425-0.234l-0.246,0.418C28.431,29.269,26.286,30.5,24,30.5c-3.584,0-6.5-2.916-6.5-6.5 s2.916-6.5,6.5-6.5c2.275,0,4.346,1.166,5.542,3.118l0.253,0.414l0.421-0.241l6.073-3.47l0.441-0.252l-0.259-0.437 C33.864,12.233,29.086,9.5,24,9.5L24,9.5z" opacity=".07"></path>
                                     </svg>
                                     <p className="text-sm text-muted-foreground">
-                                        JavaScript
+                                        C
                                     </p>
                                 </div>
-                                {/* TypeScript */}
+                                {/* C++ */}
                                 <div className="flex flex-col items-center justify-center">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -348,24 +321,15 @@ export default function Home() {
                                         viewBox="0 0 48 48"
                                         className="hover:animate-spin"
                                     >
-                                        <rect
-                                            width="36"
-                                            height="36"
-                                            x="6"
-                                            y="6"
-                                            fill="#1976d2"
-                                        ></rect>
-                                        <polygon
-                                            fill="#fff"
-                                            points="27.49,22 14.227,22 14.227,25.264 18.984,25.264 18.984,40 22.753,40 22.753,25.264 27.49,25.264"
-                                        ></polygon>
-                                        <path
-                                            fill="#fff"
-                                            d="M39.194,26.084c0,0-1.787-1.192-3.807-1.192s-2.747,0.96-2.747,1.986 c0,2.648,7.381,2.383,7.381,7.712c0,8.209-11.254,4.568-11.254,4.568V35.22c0,0,2.152,1.622,4.733,1.622s2.483-1.688,2.483-1.92 c0-2.449-7.315-2.449-7.315-7.878c0-7.381,10.658-4.469,10.658-4.469L39.194,26.084z"
-                                        ></path>
+                                        <path fill="#00549d" fill-rule="evenodd" d="M22.903,3.286c0.679-0.381,1.515-0.381,2.193,0 c3.355,1.883,13.451,7.551,16.807,9.434C42.582,13.1,43,13.804,43,14.566c0,3.766,0,15.101,0,18.867 c0,0.762-0.418,1.466-1.097,1.847c-3.355,1.883-13.451,7.551-16.807,9.434c-0.679,0.381-1.515,0.381-2.193,0 c-3.355-1.883-13.451-7.551-16.807-9.434C5.418,34.899,5,34.196,5,33.434c0-3.766,0-15.101,0-18.867 c0-0.762,0.418-1.466,1.097-1.847C9.451,10.837,19.549,5.169,22.903,3.286z" clip-rule="evenodd"></path>
+                                        <path fill="#0086d4" fill-rule="evenodd" d="M5.304,34.404C5.038,34.048,5,33.71,5,33.255 c0-3.744,0-15.014,0-18.759c0-0.758,0.417-1.458,1.094-1.836c3.343-1.872,13.405-7.507,16.748-9.38 c0.677-0.379,1.594-0.371,2.271,0.008c3.343,1.872,13.371,7.459,16.714,9.331c0.27,0.152,0.476,0.335,0.66,0.576L5.304,34.404z" clip-rule="evenodd"></path>
+                                        <path fill="#fff" fill-rule="evenodd" d="M24,10c7.727,0,14,6.273,14,14s-6.273,14-14,14 s-14-6.273-14-14S16.273,10,24,10z M24,17c3.863,0,7,3.136,7,7c0,3.863-3.137,7-7,7s-7-3.137-7-7C17,20.136,20.136,17,24,17z" clip-rule="evenodd"></path>
+                                        <path fill="#0075c0" fill-rule="evenodd" d="M42.485,13.205c0.516,0.483,0.506,1.211,0.506,1.784 c0,3.795-0.032,14.589,0.009,18.384c0.004,0.396-0.127,0.813-0.323,1.127L23.593,24L42.485,13.205z" clip-rule="evenodd"></path>
+                                        <path fill="#fff" fill-rule="evenodd" d="M31 21H33V27H31zM38 21H40V27H38z" clip-rule="evenodd"></path>
+                                        <path fill="#fff" fill-rule="evenodd" d="M29 23H35V25H29zM36 23H42V25H36z" clip-rule="evenodd"></path>
                                     </svg>
                                     <p className="text-sm text-muted-foreground">
-                                        TypeScript
+                                        C++
                                     </p>
                                 </div>
                                 {/* Java */}
@@ -439,7 +403,7 @@ export default function Home() {
                                     </p>
                                 </div>
 
-                                {/* PHP */}
+                                {/* JavaScript */}
                                 <div className="flex flex-col items-center justify-center">
                                     <svg
                                         xmlns="http://www.w3.org/2000/svg"
@@ -447,30 +411,51 @@ export default function Home() {
                                         y="0px"
                                         width="100"
                                         height="100"
-                                        viewBox="0 0 80 80"
+                                        viewBox="0 0 48 48"
                                         className="hover:animate-spin"
                                     >
                                         <path
-                                            fill="#dcd5f2"
-                                            d="M40,61.5C18.22,61.5,0.5,51.855,0.5,40S18.22,18.5,40,18.5S79.5,28.145,79.5,40S61.78,61.5,40,61.5z"
+                                            fill="#f7df1e"
+                                            d="M6,42V6h36v36H6z"
                                         ></path>
                                         <path
-                                            fill="#8b75a1"
-                                            d="M40,19c21.505,0,39,9.421,39,21S61.505,61,40,61S1,51.579,1,40S18.495,19,40,19 M40,18 C17.909,18,0,27.85,0,40s17.909,22,40,22s40-9.85,40-22S62.091,18,40,18L40,18z"
+                                            fill="#000001"
+                                            d="M29.538,32.947c0.692,1.124,1.444,2.201,3.037,2.201c1.338,0,2.04-0.665,2.04-1.585 c0-1.101-0.726-1.492-2.198-2.133l-0.807-0.344c-2.329-0.988-3.878-2.226-3.878-4.841c0-2.41,1.845-4.244,4.728-4.244 c2.053,0,3.528,0.711,4.592,2.573l-2.514,1.607c-0.553-0.988-1.151-1.377-2.078-1.377c-0.946,0-1.545,0.597-1.545,1.377 c0,0.964,0.6,1.354,1.985,1.951l0.807,0.344C36.452,29.645,38,30.839,38,33.523C38,36.415,35.716,38,32.65,38 c-2.999,0-4.702-1.505-5.65-3.368L29.538,32.947z M17.952,33.029c0.506,0.906,1.275,1.603,2.381,1.603 c1.058,0,1.667-0.418,1.667-2.043V22h3.333v11.101c0,3.367-1.953,4.899-4.805,4.899c-2.577,0-4.437-1.746-5.195-3.368 L17.952,33.029z"
                                         ></path>
-                                        <path
-                                            fill="#36404d"
-                                            d="M25.112 34c1.725 0 3.214.622 4.084 1.706.749.934.981 2.171.668 3.577C29.023 43.074 27.395 44 21.57 44h-4.14l1.75-10H25.112M25.112 32H17.5L14 52h2l1.056-6h4.515c5.863 0 9.053-.905 10.246-6.284C32.842 35.096 29.436 32 25.112 32L25.112 32zM61.112 34c1.725 0 3.214.622 4.084 1.706.749.934.981 2.171.668 3.577C65.023 43.074 63.395 44 57.57 44h-4.14l1.75-10H61.112M61.112 32H53.5L50 52h2l1.056-6h4.515c5.863 0 9.053-.905 10.246-6.284C68.842 35.096 65.436 32 61.112 32L61.112 32z"
-                                        ></path>
-                                        <g>
-                                            <path
-                                                fill="#36404d"
-                                                d="M49.072,33.212C48.193,32.348,46.644,32,44.334,32h-5.538L40,26h-2.1L34,46h1.99l2.388-12h0.419 h5.538c2.338,0,3.094,0.4,3.335,0.637c0.343,0.338,0.424,1.226,0.217,2.363l-1.767,9h2.106l1.626-8.63 C50.199,35.462,49.936,34.062,49.072,33.212z"
-                                            ></path>
-                                        </g>
                                     </svg>
                                     <p className="text-sm text-muted-foreground">
-                                        PHP
+                                        JavaScript
+                                    </p>
+                                </div>
+                                {/* TypeScript */}
+                                <div className="flex flex-col items-center justify-center">
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        x="0px"
+                                        y="0px"
+                                        width="100"
+                                        height="100"
+                                        viewBox="0 0 48 48"
+                                        className="hover:animate-spin"
+                                    >
+                                        <rect
+                                            width="36"
+                                            height="36"
+                                            x="6"
+                                            y="6"
+                                            fill="#1976d2"
+                                        ></rect>
+                                        <polygon
+                                            fill="#fff"
+                                            points="27.49,22 14.227,22 14.227,25.264 18.984,25.264 18.984,40 22.753,40 22.753,25.264 27.49,25.264"
+                                        ></polygon>
+                                        <path
+                                            fill="#fff"
+                                            d="M39.194,26.084c0,0-1.787-1.192-3.807-1.192s-2.747,0.96-2.747,1.986 c0,2.648,7.381,2.383,7.381,7.712c0,8.209-11.254,4.568-11.254,4.568V35.22c0,0,2.152,1.622,4.733,1.622s2.483-1.688,2.483-1.92 c0-2.449-7.315-2.449-7.315-7.878c0-7.381,10.658-4.469,10.658-4.469L39.194,26.084z"
+                                        ></path>
+                                    </svg>
+                                    <p className="text-sm text-muted-foreground">
+                                        TypeScript
                                     </p>
                                 </div>
                             </div>
@@ -1097,6 +1082,28 @@ export default function Home() {
                                         Figma
                                     </p>
                                 </div>
+                                {/* Framer */}
+                                {/* Framer */}
+                                <div className="flex flex-col items-center justify-center">
+                                    <svg
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        x="0px"
+                                        y="0px"
+                                        width="100"
+                                        height="100"
+                                        viewBox="0 0 24 24"
+                                        className="hover:animate-spin"
+                                    >
+                                        <path fill="#24A8FF" d="M20 16H4V8h8z"></path>
+                                        <path fill="#8DDCFF" d="M20 0H4l8 8h8z"></path>
+                                        <path fill="#054EFF" d="M12 16v8l-8-8z"></path>
+                                    </svg>
+                                    <p className="text-sm text-muted-foreground">
+                                        Framer
+                                    </p>
+                                </div>
+
+
                             </div>
                         </div>
                     </Reveal>
