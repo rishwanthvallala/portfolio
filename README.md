@@ -17,14 +17,14 @@
 
 ## Interested in using this template?
 
-Feel free to use this template for your own site. Just maybe change the theme or something so that it would not look like an exact duplicate. Or maybe you can link back to this repository or my [portfolio site](https://danielwanjo.xyz) as a small credit if that's what you want to do😊 Just know that most of the UI components in my site are from [shadcn/ui](https://ui.shadcn.com/) and [Aceternity UI](https://ui.aceternity.com/) so you can explore further on how and what else you want to implement yourself for your own site. Good luck!
+Feel free to use this template for your own site. Just maybe change the theme or something so that it would not look like an exact duplicate. Or maybe you can link back to this repository or my [portfolio site](https://github.com/rishwanthvallala/portfolio) as a small credit if that's what you want to do😊 Just know that most of the UI components in my site are from [shadcn/ui](https://ui.shadcn.com/) and [Aceternity UI](https://ui.aceternity.com/) so you can explore further on how and what else you want to implement yourself for your own site. Good luck!
 
 ## Installation & Set Up
 
 First, clone the repository:
 
 ```bash
-git clone https://github.com/KeluhingBavui/portfolio-v2.git
+git clone https://github.com/rishwanthvallala/portfolio.git
 ```
 
 Then, navigate to the project folder:
@@ -46,7 +46,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser and start coding.
-
-## Credits
-
-I took some inspiration from [Brittany Chiang](https://v4.brittanychiang.com/) for part of the design and layout of the site. And also a small credit to [Syaamil Faiq](https://syaamilfaiq.com/) for the beam effect idea on experiences section😜
