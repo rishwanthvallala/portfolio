@@ -5,7 +5,7 @@
   This is my portfolio site</a> with minimalistic approach. Built with <a href="https://www.nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>.
 </p>
 
-![demo](https://raw.githubusercontent.com/rishwanthvallala/portfolio/master/public/assets/img/demo-portfolio.png)
+![demo](https://raw.githubusercontent.com/rishwanthvallala/portfolio/master/public/assets/img/demo-portfolio.webp)
 
 ## Tech Stack & UI Libraries
 

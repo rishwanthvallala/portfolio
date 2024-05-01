@@ -3,7 +3,7 @@
         "title": "Acumen IT College Website",
         "description": "Developed a website to facilitate the registration process for our college's tech fest events. The website served as a centralized platform where participants could easily register for various events, providing a seamless and efficient experience for both organizers and attendees of the Acumen tech fest.",
         "type": "Extra Curricular Project",
-        "imageUrl": "/assets/img/acumen.png",
+        "imageUrl": "/assets/img/acumen.webp",
         "githubUrl": "https://github.com/rishwanthvallala/acumen",
         "demoUrl": "https://acumenit.netlify.app/",
         "skills": [
@@ -21,7 +21,7 @@
         "title": "DSAC IT Club Website",
         "description": "Led a 6-member team within the college's Data Structures club to design and develop its official website. Played an active role in the planning, design, and implementation phases, contributing to the overall user experience and functionality.",
         "type": "Extra Curricular Project",
-        "imageUrl": "/assets/img/dsac.png",
+        "imageUrl": "/assets/img/dsac.webp",
         "githubUrl": "",
         "demoUrl": "https://dsac.framer.website",
         "skills": ["Html", "JavaScript", "React", "NodeJS", "Framer"]
@@ -30,7 +30,7 @@
         "title": "Glitter - Twitter Clone",
         "description": "Built a fully-featured Twitter clone for inter-college event announcements using Django (Python). Achieved a maximum peak of 8,000+ clicks per month.",
         "type": "Project",
-        "imageUrl": "/assets/img/glitter.png",
+        "imageUrl": "/assets/img/glitter.webp",
         "githubUrl": "https://github.com/rishwanthvallala/glitter",
         "demoUrl": "https://rishwanthvallala.pythonanywhere.com/",
         "skills": ["Python", "Django", "React", "MongoDB"]
@@ -40,7 +40,7 @@
         "title": "AR Visualiser",
         "description": "Developed an award-winning AR app providing interactive 3D models for educational purposes. Seamlessly integrates complex machinery, human anatomy, and chemical structures, enhancing learning experiences. Collaborated with two other developers and managed to secure 2nd position in a national-level hackathon Tech-Savishkar.",
         "type": "Techsavishkar Hackthon 2024 Project",
-        "imageUrl": "/assets/img/ar.jpeg",
+        "imageUrl": "/assets/img/ar.webp",
         "githubUrl": "",
         "demoUrl": "",
         "skills": [
@@ -56,7 +56,7 @@
         "title": "Dijkstra's Algorithm Visualizer",
         "description": "Developed an interactive map for visualizing the Dijkstra's algorithm across the Indian map. Used by the college professors to help students understand the algorithm through interactive visualization.",
         "type": "Project",
-        "imageUrl": "/assets/img/dijkstras.png",
+        "imageUrl": "/assets/img/dijkstras.webp",
         "githubUrl": "https://github.com/rishwanthvallala/Dijkstras_algo_visualiser",
         "demoUrl": "https://rishwanthvallala.github.io/Dijkstras_algo_visualiser/",
         "skills": ["HTML/CSS", "JavaScript", "Google Maps API"]
@@ -65,7 +65,7 @@
         "title": "Saved Prompts",
         "description": "Created a browser extension facilitating seamless organization and retrieval of high-quality ChatGPT prompts. Published the extension, gaining 1000+ users and a 4.8/5 star review on the Chrome Web Store.",
         "type": "Project",
-        "imageUrl": "/assets/img/prompts.jpg",
+        "imageUrl": "/assets/img/prompts.webp",
         "githubUrl": "https://github.com/rishwanthvallala/prompt_saver_extension",
         "demoUrl": "https://chrome.google.com/webstore/detail/saved-prompts/nbfhlbpkebiejihbipapniegllacifhb",
         "skills": ["HTML", "JavaScript", "Chrome Extension APIs"]
