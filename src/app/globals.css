@@ -57,3 +57,8 @@
         @apply bg-background text-foreground;
     }
 }
+@media (min-width: 768px) {
+    iframe {
+        height: 800px; /* Adjust height for laptops and larger screens */
+    }
+}

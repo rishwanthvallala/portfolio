@@ -1,4 +1,5 @@
 import { Fragment } from 'react';
+import { useEffect, useState } from 'react';
 import Head from 'next/head';
 import { ThemeProvider } from '@/components/theme-provider';
 import { NavigationBar } from '@/components/nav-bar';
@@ -12,6 +13,22 @@ const metadata = {
 };
 
 export default function Resume() {
+    const [iframeWidth, setIframeWidth] = useState('50vh');
+
+    useEffect(() => {
+        const handleResize = () => {
+            if (window.innerWidth < 768) {
+                setIframeWidth('50vh');
+            } else {
+                setIframeWidth('200vh');
+            }
+        };
+        console.log('window.innerWidth', window.innerWidth);
+        handleResize();
+        window.addEventListener('resize', handleResize);
+        return () => window.removeEventListener('resize', handleResize);
+    }, []);
+
     return (
         <ThemeProvider
             attribute="class"
@@ -38,7 +55,7 @@ export default function Resume() {
                         className="mt-8 border-none shadow-lg rounded-lg container mx-auto center"
                         src="/resume.pdf"
                         width="100%"
-                        height="1200px"
+                        style={{ height: iframeWidth }}
                     ></iframe>
                 </main>
                 <footer className="container mx-auto py-4">
