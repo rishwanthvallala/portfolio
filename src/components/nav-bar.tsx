@@ -71,6 +71,15 @@ export function NavigationBar() {
                             </NavigationMenuLink>
                         </Link>
                     </NavigationMenuItem>
+                    <NavigationMenuItem>
+                        <Link href="/resume" legacyBehavior passHref>
+                            <NavigationMenuLink
+                                className={navigationMenuTriggerStyle()}
+                            >
+                                Resume
+                            </NavigationMenuLink>
+                        </Link>
+                    </NavigationMenuItem>
                 </NavigationMenuList>
             </NavigationMenu>
             <Sheet>
@@ -135,6 +144,15 @@ export function NavigationBar() {
                                         className={navigationMenuTriggerStyle()}
                                     >
                                         Contact
+                                    </NavigationMenuLink>
+                                </Link>
+                            </NavigationMenuItem>
+                            <NavigationMenuItem>
+                                <Link href="/resume" legacyBehavior passHref>
+                                    <NavigationMenuLink
+                                        className={navigationMenuTriggerStyle()}
+                                    >
+                                        Resume
                                     </NavigationMenuLink>
                                 </Link>
                             </NavigationMenuItem>
