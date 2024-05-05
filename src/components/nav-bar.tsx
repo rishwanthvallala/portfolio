@@ -27,7 +27,7 @@ export function NavigationBar() {
                 </Link>
                 <NavigationMenuList className="w-full justify-end">
                     <NavigationMenuItem>
-                        <Link href="#about" legacyBehavior passHref>
+                        <Link href="/#about" legacyBehavior passHref>
                             <NavigationMenuLink
                                 className={navigationMenuTriggerStyle()}
                             >
@@ -36,7 +36,7 @@ export function NavigationBar() {
                         </Link>
                     </NavigationMenuItem>
                     <NavigationMenuItem>
-                        <Link href="#experiences" legacyBehavior passHref>
+                        <Link href="/#experiences" legacyBehavior passHref>
                             <NavigationMenuLink
                                 className={navigationMenuTriggerStyle()}
                             >
@@ -45,7 +45,7 @@ export function NavigationBar() {
                         </Link>
                     </NavigationMenuItem>
                     <NavigationMenuItem>
-                        <Link href="#projects" legacyBehavior passHref>
+                        <Link href="/#projects" legacyBehavior passHref>
                             <NavigationMenuLink
                                 className={navigationMenuTriggerStyle()}
                             >
@@ -54,7 +54,7 @@ export function NavigationBar() {
                         </Link>
                     </NavigationMenuItem>
                     <NavigationMenuItem>
-                        <Link href="#skills" legacyBehavior passHref>
+                        <Link href="/#skills" legacyBehavior passHref>
                             <NavigationMenuLink
                                 className={navigationMenuTriggerStyle()}
                             >
@@ -63,7 +63,7 @@ export function NavigationBar() {
                         </Link>
                     </NavigationMenuItem>
                     <NavigationMenuItem>
-                        <Link href="#contact" legacyBehavior passHref>
+                        <Link href="/#contact" legacyBehavior passHref>
                             <NavigationMenuLink
                                 className={navigationMenuTriggerStyle()}
                             >
@@ -99,7 +99,7 @@ export function NavigationBar() {
                                 </Link>
                             </NavigationMenuItem>
                             <NavigationMenuItem>
-                                <Link href="#about" legacyBehavior passHref>
+                                <Link href="/#about" legacyBehavior passHref>
                                     <NavigationMenuLink
                                         className={navigationMenuTriggerStyle()}
                                     >
@@ -109,7 +109,7 @@ export function NavigationBar() {
                             </NavigationMenuItem>
                             <NavigationMenuItem>
                                 <Link
-                                    href="#experiences"
+                                    href="/#experiences"
                                     legacyBehavior
                                     passHref
                                 >
@@ -121,7 +121,7 @@ export function NavigationBar() {
                                 </Link>
                             </NavigationMenuItem>
                             <NavigationMenuItem>
-                                <Link href="#projects" legacyBehavior passHref>
+                                <Link href="/#projects" legacyBehavior passHref>
                                     <NavigationMenuLink
                                         className={navigationMenuTriggerStyle()}
                                     >
@@ -130,7 +130,7 @@ export function NavigationBar() {
                                 </Link>
                             </NavigationMenuItem>
                             <NavigationMenuItem>
-                                <Link href="#skills" legacyBehavior passHref>
+                                <Link href="/#skills" legacyBehavior passHref>
                                     <NavigationMenuLink
                                         className={navigationMenuTriggerStyle()}
                                     >
@@ -139,7 +139,7 @@ export function NavigationBar() {
                                 </Link>
                             </NavigationMenuItem>
                             <NavigationMenuItem>
-                                <Link href="#contact" legacyBehavior passHref>
+                                <Link href="/#contact" legacyBehavior passHref>
                                     <NavigationMenuLink
                                         className={navigationMenuTriggerStyle()}
                                     >
