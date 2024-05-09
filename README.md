@@ -17,7 +17,7 @@
 
 ## Interested in using this template?
 
-Feel free to use this template for your own site. Just maybe change the theme or something so that it would not look like an exact duplicate. Or maybe you can link back to this repository or my [portfolio site](https://github.com/rishwanthvallala/portfolio) as a small credit if that's what you want to do😊 Just know that most of the UI components in my site are from [shadcn/ui](https://ui.shadcn.com/) and [Aceternity UI](https://ui.aceternity.com/) so you can explore further on how and what else you want to implement yourself for your own site. Good luck!
+Feel free to use this template for your own site. Just maybe change the theme or something so that it would not look like an exact duplicate. Or maybe you can link back to this repository or my [portfolio site](https://rishwanth.me) as a small credit if that's what you want to do😊 Just know that most of the UI components in my site are from [shadcn/ui](https://ui.shadcn.com/) and [Aceternity UI](https://ui.aceternity.com/) so you can explore further on how and what else you want to implement yourself for your own site. Good luck!
 
 ## Installation & Set Up
 
