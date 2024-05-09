@@ -1,6 +1,5 @@
-<h1 align="center">
-  [Rishwanth Vallala](https://rishwanth.me)
-</h1>
+[<h1 align="center">Rishwanth Vallala</h1>](https://rishwanth.me)
+
 <p align="center">
   This is my portfolio site</a> with minimalistic approach. Built with <a href="https://www.nextjs.org/" target="_blank">Next.js</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
 </p>
