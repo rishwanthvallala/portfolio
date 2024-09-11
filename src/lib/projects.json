@@ -1,5 +1,23 @@
 [
     {
+        "title": "Any Scrape",
+        "description": "Built an AI-powered web scraper using a fine-tuned LLaMA-3 model to extract data from any URL. Developed a SaaS platform with 100+ active users, supporting JSON and Markdown outputs, handling 1000+ requests/second. Integrated secure API authorization and a 3-tier subscription model. Deployed using Firebase and Netlify for scalability.",
+        "type": "Professional Project",
+        "imageUrl": "/assets/img/anyscrape.webp",
+        "githubUrl": "https://github.com/rishwanthvallala/saas",
+        "demoUrl": "https://scrape.rishwanth.me",
+        "skills": [
+            "Node.js",
+            "Next.js 13",
+            "TypeScript",
+            "Tailwind CSS",
+            "Fine-tuned LLaMA-3",
+            "Firebase",
+            "Python",
+            "Netlify"
+        ]
+    },
+    {
         "title": "Acumen IT College Website",
         "description": "Developed a website to facilitate the registration process for our college's tech fest events. The website served as a centralized platform where participants could easily register for various events, providing a seamless and efficient experience for both organizers and attendees of the Acumen tech fest.",
         "type": "Extra Curricular Project",
@@ -59,7 +77,7 @@
         "imageUrl": "/assets/img/dijkstras.webp",
         "githubUrl": "https://github.com/rishwanthvallala/Dijkstras_algo_visualiser",
         "demoUrl": "https://rishwanthvallala.github.io/Dijkstras_algo_visualiser/",
-        "skills": ["HTML/CSS", "JavaScript", "Google Maps API"]
+        "skills": ["Java", "Spring Boot", "JavaScript", "HTML", "CSS"]
     },
     {
         "title": "Saved Prompts",

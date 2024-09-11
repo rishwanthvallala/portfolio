@@ -13,15 +13,16 @@ const metadata = {
 };
 
 export default function Resume() {
-    const [iframeWidth, setIframeWidth] = useState('50vh');
+    const [iframeWidth, setIframeWidth] = useState(768);
 
     useEffect(() => {
         const handleResize = () => {
             if (window.innerWidth < 768) {
-                setIframeWidth('50vh');
+                setIframeWidth(600);
             } else {
-                setIframeWidth('200vh');
+                setIframeWidth(600 );
             }
+            setIframeWidth(window.innerWidth - 32);
         };
         console.log('window.innerWidth', window.innerWidth);
         handleResize();

@@ -65,7 +65,7 @@ export default function Home() {
                                 <Tooltip>
                                     <TooltipTrigger asChild>
                                         <Link
-                                            href="https://www.linkedin.com/in/rishwanthvallala/"
+                                            href="https://www.linkedin.com/in/rishwanth-vallala-a64775286/"
                                             target="_blank"
                                         >
                                             <Button
@@ -79,6 +79,7 @@ export default function Home() {
                                     <TooltipContent>
                                         <p>LinkedIn</p>
                                     </TooltipContent>
+
                                 </Tooltip>
                             </Reveal>
                             <Reveal
