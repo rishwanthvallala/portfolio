@@ -12,5 +12,18 @@
             "Client-Server Architecture",
             "Linux Kernel"
         ]
+    },
+    {
+        "title": "SDE Intern",
+        "company": "Juspay",
+        "date": "Jan 2025 - Jul 2025",
+        "description": "I overhauled a critical, real-time UPI data pipeline by resolving production bugs and memory leaks in its Haskell services. By refactoring the core framework and optimizing the ClickHouse database, I reduced data latency from hours to seconds and architected a new pipeline branch for a major banking client, enhancing system-wide reliability and performance.",
+        "skills": [
+            "Haskell",
+            "Real-time Data Processing",
+            "Kafka",
+            "ClickHouse",
+            "Cassandra"
+        ]
     }
 ]
