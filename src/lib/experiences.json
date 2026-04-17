@@ -1,14 +1,14 @@
 [
     {
-        "title": "Embedded Software Intern",  
+        "title": "SDE Intern",
         "company": "Unistring Tech Solutions Pvt. Ltd.",
         "date": "Sept 2023 - Jan 2024",
-        "description": " I designed and implemented a Python-based client-server application utilizing TCP communication to manage USB device access. I developed a VID/PID whitelist system for USB devices to improve data security and deployed it to over 50% of company systems, significantly improving overall security measures.",
+        "description": "Built a Python client-server security application using TCP and MySQL to manage network-wide USB access, implementing a VID/PID whitelist for 500+ authorized devices. Deployed to 50% of company systems, achieving 30% reduction in unauthorized access incidents; verified 1000+ requests/second under load.",
         "skills": [
             "Python",
-            "Networking",
-            "Socket Programming",
             "TCP/IP",
+            "Socket Programming",
+            "MySQL",
             "Client-Server Architecture",
             "Linux Kernel"
         ]
@@ -16,14 +16,29 @@
     {
         "title": "SDE Intern",
         "company": "Juspay",
-        "date": "Jan 2025 - Jul 2025",
-        "description": "I overhauled a critical, real-time UPI data pipeline by resolving production bugs and memory leaks in its Haskell services. By refactoring the core framework and optimizing the ClickHouse database, I reduced data latency from hours to seconds and architected a new pipeline branch for a major banking client, enhancing system-wide reliability and performance.",
+        "date": "Jan 2025 - Jun 2025",
+        "description": "Built a real-time Haskell streaming pipeline replacing legacy batch ETLs, cutting transaction analytics latency from hours to seconds. Added features to the SDK data pipeline; optimized ClickHouse via TTLs and materialized view rollups. Enhanced an R-based accuracy framework to auto-detect and alert on PostgreSQL/ClickHouse discrepancies.",
         "skills": [
             "Haskell",
-            "Real-time Data Processing",
             "Kafka",
             "ClickHouse",
-            "Cassandra"
+            "PostgreSQL",
+            "R",
+            "Real-time Data Processing"
+        ]
+    },
+    {
+        "title": "SDE",
+        "company": "Juspay",
+        "date": "Jul 2025 - Present",
+        "description": "Elevated UPI real-time pipeline data accuracy from 90% to 99.98% via root-cause analysis and deep Haskell debugging. Took full ownership of the streaming pipeline, resolving critical production issues to minimize downtime. Developed a new transactions sessionizer and re-architected the mv_txns pipeline, migrating the two most-used analytics tables off legacy ETLs.",
+        "skills": [
+            "Haskell",
+            "Kafka",
+            "ClickHouse",
+            "Cassandra",
+            "Real-time Data Processing",
+            "ETL"
         ]
     }
 ]
